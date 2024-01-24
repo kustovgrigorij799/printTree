@@ -1,0 +1,4 @@
+  repo.printTree();
+      break;
+    case 'exit':
+      rl.close();
